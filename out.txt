@@ -1,0 +1,10 @@
+3154020: myShell.cpp
+3151715: .
+3154018: .gitignore
+3154019: history.txt
+3154021: myShell.h
+4327668: .vscode
+3151734: .git
+3150704: a.out
+2763902: ..
+

@@ -1,0 +1,119 @@
+0: ls
+1: pwd | ls
+2: ls
+3: pwd
+4: history
+5: history
+6: ls
+7: pwd
+8: pwd
+9: pwd
+10: pwd
+11: pwd
+12: history
+13: history
+14: pwd | ls
+15: history
+16: ls
+17: pwd
+18: pwd |ls
+19: pwd | ls
+20: history
+21: ls
+22: ls > out.txt
+23: ls > out.txt
+24: a
+25: ls > out.txt
+26: ls
+27: ls
+28: ls
+29: sl
+30: ls
+31: ls
+32: 
+33: 
+34: 
+35: ls
+36: 
+37: 
+38: 
+39: 
+40: ls
+41: ls
+42: 
+43: ls
+44: 
+45: ls
+46: ls > out.txt
+47: hi
+48: hi
+49: hi
+50: ls
+51: ls
+52: ls
+53: ls > out.txt
+54: exit
+55: la
+56: ls
+57: ls > out.txt
+58: exit
+59: ls
+60: ls > out.txt
+61: cat out.txt
+62: exit
+63: ls > out.txt
+64: exit
+65: ls
+66: ls > out.txt
+67: exit
+68: ls
+69: ls > out.txt
+70: exit
+71: ls >> out.txt
+72: ls > out.txt
+73: exit
+74: ls
+75: ls > out.txt
+76: exit
+77: ls > out.txt
+78: exit
+79: ls
+80: ls > out.txt
+81: exit
+82: ls > out.txt
+83: exit()
+84: exit
+85: ls > out.txt
+86: ls > ./out.txt
+87: exit
+88: ls > out.txt
+89: exit
+90: ls > out.txt
+91: exit
+92: ls > myout.txt
+93: exit()
+94: exit
+95: ls .
+96: ls ..
+97: ls .......\
+98: pwd
+99: pwd .
+100: pwd
+101: pwd .
+102: ls
+103: ls
+104: ls .
+105: ls > out.txt
+106: ls
+107: ls
+108: ls .
+109: ls ..
+110: ls
+111: ls
+112: ls
+113: ls
+114: ls
+115: ls < in.txt
+116: history
+117: ls
+118: ls < in.txt
